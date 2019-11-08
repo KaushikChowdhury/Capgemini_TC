@@ -1,0 +1,8 @@
+dash==0.30.0
+dash-core-components==0.38.0
+dash-html-components==0.13.2
+dash-renderer==0.15.0
+numpy==1.15.4
+pandas==0.22.0
+plotly==3.4.1
+cufflinks==0.14.6
